@@ -1,0 +1,3 @@
+C:/PROGRAMA 1/Market/cmake-build-debug/CMakeFiles/Market.dir
+C:/PROGRAMA 1/Market/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PROGRAMA 1/Market/cmake-build-debug/CMakeFiles/rebuild_cache.dir
